@@ -1,5 +1,8 @@
 # React App Installation 
 
+If you've previously installed create-react-app globally via npm install -g create-react-app, 
+you uninstall the package using npm uninstall -g create-react-app or yarn global remove create-react-app to ensure that npx always uses the latest version.
+
 Getting Started:
 
 	npm create-react-app my-app
