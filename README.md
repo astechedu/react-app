@@ -1,6 +1,6 @@
 # React App Installation 
 
-<img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="200" height="200">
+<img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="150">
 
 If you've previously installed create-react-app globally via npm install -g create-react-app, 
 you uninstall the package using npm uninstall -g create-react-app or yarn global remove create-react-app to ensure that npx always uses the latest version.
